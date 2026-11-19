@@ -1,0 +1,7 @@
+{
+  "name": "Study Notes Quiz Generator",
+  "description": "Generate custom interactive quizzes from your study notes with instant scoring and explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
